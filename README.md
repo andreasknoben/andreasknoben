@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreasknoben
+- 👋 Hi, I’m Andreas!
 - 👀 I’m interested in brain-computer interfaces, computational neuroscience, and explainable AI.
 - 🌱 I’m currently studying Cognitive Science & Artificial Intelligence at Tilburg University.
 - 💞️ I’m an advocate of open source and libre software.
