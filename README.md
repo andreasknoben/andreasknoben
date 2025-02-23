@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andreas!
 - 🌱 I am a PhD candidate in neuroscience at the Cognitive and Systems Neuroscience Group, SILS, UvA.
 - 👀 I’m interested in neurophysiology and computational neuroscience.
-- 🎓 I have a master's degree in Cognitive Neuroscience.
+- 🎓 I have a background in cognitive and computational neuroscience.
 - 💞️ I’m an advocate of open source and libre software.
 
 <!---
