@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andreas!
-- 👀 I’m interested in computational neuroscience and neurophysiology.
-- 🌱 I’m currently studying Cognitive Neuroscience (research master) at Radboud University.
-- 🎓 I have a bachelor degree in Cognitive Science & Artificial Intelligence from Tilburg University.
+- 🌱 I am a PhD candidate in neuroscience at the Cognitive and Systems Neuroscience Group, SILS, UvA.
+- 👀 I’m interested in neurophysiology and computational neuroscience.
+- 🎓 I have a master's degree in Cognitive Neuroscience.
 - 💞️ I’m an advocate of open source and libre software.
 
 <!---
